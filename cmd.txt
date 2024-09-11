@@ -8,4 +8,8 @@ __init__.py file to make package
 -e. in requirements.txt trigers setup.py 
 git init
 git status
-git
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Suraj-Hudda/Sensordetection.git
+git push -u origin main
