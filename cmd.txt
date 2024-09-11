@@ -1,0 +1,11 @@
+conda create -p venv python==3.8
+conda activate venv/
+pip install -r requirements.txt
+pip list
+# setuptools is a package which provide tools for packaging python project
+python setup.py install
+__init__.py file to make package
+-e. in requirements.txt trigers setup.py 
+git init
+git status
+git
