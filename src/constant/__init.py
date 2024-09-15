@@ -1,0 +1,12 @@
+import os
+
+
+AWS_S3__BUCKET_NAME="wafer-fault"
+MONGO_DATABASE_NAME="mlprojects"
+MONGO_COLLECTION_NAME="waferfault"
+
+TARGET-COLUMN="quality"
+MONGO_DB_URL=""
+
+MODEL_FILE_NAME="model"
+MODEL_FILE_EXTENSION=".pkl"
